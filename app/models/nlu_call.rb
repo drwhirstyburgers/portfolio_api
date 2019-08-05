@@ -1,0 +1,2 @@
+class NluCall < ApplicationRecord
+end
